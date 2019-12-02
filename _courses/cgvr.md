@@ -1,6 +1,6 @@
 ---
 ref: cgvr
-title: " Lesson"
+title: "Lesson"
 author: mouko
 excerpt: ""
 uri: ""
